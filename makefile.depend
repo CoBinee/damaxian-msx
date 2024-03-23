@@ -1,0 +1,24 @@
+crt0.rel        :   crt0.s \
+                    bios.inc
+main.rel        :   main.s \
+                    bios.inc System.inc App.inc
+System.rel      :   System.s \
+                    bios.inc vdp.inc System.inc
+App.rel         :   App.s \
+                    bios.inc vdp.inc System.inc App.inc Back.inc Title.inc Game.inc
+Back.rel        :   Back.s \
+                    bios.inc vdp.inc System.inc App.inc Back.inc
+Title.rel       :   Title.s \
+                    bios.inc System.inc App.inc Title.inc
+Game.rel        :   Game.s \
+                    bios.inc System.inc App.inc Back.inc Game.inc GameShip.inc GameShot.inc GameEnemy.inc GameBullet.inc
+GameShip.rel    :   GameShip.s \
+                    bios.inc System.inc App.inc Game.inc GameShip.inc GameShot.inc
+GameShot.rel    :   GameShot.s \
+                    bios.inc System.inc App.inc Game.inc GameShip.inc GameShot.inc
+GameEnemy.rel   :   GameEnemy.s \
+                    bios.inc System.inc App.inc Game.inc GameShip.inc GameEnemy.inc
+GameBullet.rel  :   GameBullet.s \
+                    bios.inc System.inc App.inc Game.inc GameBullet.inc
+pattern.rel     :   pattern.s
+bg.rel          :   bg.s
