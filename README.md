@@ -1,6 +1,6 @@
 # DAMAXIAN
 
-[![Witches](http://img.youtube.com/vi/VfeDRP2QGs0/0.jpg)](https://www.youtube.com/watch?v=VfeDRP2QGs0)
+[![DAMAXIAN](http://img.youtube.com/vi/VfeDRP2QGs0/0.jpg)](https://www.youtube.com/watch?v=VfeDRP2QGs0)
 
 ## 説明
 倍率を上げ続けてください。<br>
