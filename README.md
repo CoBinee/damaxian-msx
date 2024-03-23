@@ -4,7 +4,7 @@
 
 ## 説明
 倍率を上げ続けてください。<br>
-こちらから遊べます。⇒  [WebMSX](http://webmsx.org/?MACHINE=MSX1J&DISK=https://github.com/CoBinee/damaxian-msx/raw/main/disk/damaxian.dsk)
+こちらから遊べます。⇒  [WebMSX](http://webmsx.org/?MACHINE=MSX1J&DISK=https://github.com/CoBinee/damaxian-msx/raw/main/diskimage/damaxian.dsk)
 
 ## 操作
 - `←`, `→`<br>移動
